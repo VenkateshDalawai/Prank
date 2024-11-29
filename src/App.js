@@ -22,7 +22,7 @@ function App() {
         </button>
       </div>
       <div>
-        {k && name && <h1>{name} Champ</h1>}
+        {k && name && <h1>{name} Randi</h1>}
       </div>
     </>
   );
